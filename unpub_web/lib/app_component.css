@@ -5,3 +5,23 @@
 .home-banner {
   padding-bottom: 20px;
 }
+
+.site-header-row {
+	background: #FF2442;
+	padding: 8px 0;
+}
+
+.nav-header {
+	display: flex;
+	align-items: center;
+}
+
+.logo {
+	vertical-align: middle;
+	margin-right: 16px;
+}
+
+.logo-text {
+	font-size: 40px;
+	color: white;
+}
